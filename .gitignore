@@ -1,9 +1,15 @@
+app/ignored/
+
 # Byte-compiled / optimized / DLL files
+models/
+*.pkl
+datasets/exports/*.json
+datasets/spam-classifier
 bin/
 etc/
 include/
 share/
-
+datasets/zips
 __pycache__/
 *.py[cod]
 *$py.class
