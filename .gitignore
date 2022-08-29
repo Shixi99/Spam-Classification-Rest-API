@@ -1,4 +1,5 @@
 
+
 app/ignored/
 
 # Byte-compiled / optimized / DLL files
@@ -12,6 +13,7 @@ include/
 share/
 datasets/zips
 
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -36,6 +38,7 @@ wheels/
 
 pip-wheel-metadata/
 
+pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -88,6 +91,7 @@ instance/
 docs/_build/
 
 # PyBuilder
+
 .pybuilder/
 target/
 
@@ -129,6 +133,7 @@ ipython_config.py
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
 # Celery stuff
